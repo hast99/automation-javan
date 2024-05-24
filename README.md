@@ -1,1 +1,1 @@
-# automation-javan
+# automation-typing-test
